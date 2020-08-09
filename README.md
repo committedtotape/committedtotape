@@ -1,11 +1,9 @@
-### Hi there, I'm David 👋
+<h1 align="center">Hi there, I'm David 👋</h1>
 
-<p align="center">
-
- <h1>Hi there, I'm David 👋</h1><br>
-  <a href="https://davidsmale.netlify.app/portfolio/">Blog</a> |
-  <a href="https://twitter.com/committedtotape">Twitter</a> |
-  <a href="mailto:davidlsmale@gmail.com">Email</a>
+ <p align="center">
+  <a href="https://davidsmale.netlify.app/portfolio/">💻 Blog</a> |
+  <a href="https://twitter.com/committedtotape">🐦 Twitter</a> |
+  <a href="mailto:davidlsmale@gmail.com">✉️ Email</a>
   <br><br>
 </p>
 
