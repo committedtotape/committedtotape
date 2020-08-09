@@ -1,7 +1,26 @@
-### Hi there 👋
+<p align="center">
+
+ <h1>Hi there, I'm David 👋</h1><br>
+  <a href="https://davidsmale.netlify.app/portfolio/">Blog</a> |
+  <a href="https://twitter.com/committedtotape">Twitter</a> |
+  <a href="mailto:davidlsmale@gmail.com">Email</a>
+  <br><br>
+</p>
+
+**I like to use R to explore data that interests me. These interests include:* 
+
+🎸 Wonky indie-pop music
+
+🏏 Test Match cricket
+
+🖋️ Cryptic crosswords
+
+🎧 True-crime podcasts
+
+In April 2019 [I was awarded ‘Best Design’](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/) in RStudio’s inaugural Shiny Contest for [an app exploring the lyrics to the album ‘69 Love Songs’](https://committedtotape.shinyapps.io/sixtyninelovesongs/) by The Magnetic Fields.
+
 
 <!--
-**committedtotape/committedtotape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
