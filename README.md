@@ -1,3 +1,5 @@
+### Hi there, I'm David 👋
+
 <p align="center">
 
  <h1>Hi there, I'm David 👋</h1><br>
@@ -7,7 +9,7 @@
   <br><br>
 </p>
 
-**I like to use R to explore data that interests me. These interests include:* 
+**I like to use R to explore data that interests me. These interests include:** 
 
 🎸 Wonky indie-pop music
 
